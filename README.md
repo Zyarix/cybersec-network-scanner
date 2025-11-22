@@ -45,3 +45,5 @@ scapy>=2.5.0
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+This tool is intended for use on networks and systems you own or have explicit permission to test. Unauthorised scanning or exploitation is illegal, and the author is not responsible for misuse.
