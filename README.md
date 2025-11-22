@@ -39,6 +39,12 @@ Installation
 1. Install Python 3.7+
 2. Install dependencies:
 
+Notes
+- Permissions: Some features (ARP scan, OS fingerprinting) require elevated privileges
+- Performance: Adjust thread count based on your system and network
+- Accuracy: OS fingerprinting accuracy depends on network conditions and target configuration
+- Vulnerability Database: The vulnerability database includes common CVEs however, it is not exhaustive
+
 Requirements:
 rich>=13.0.0
 scapy>=2.5.0
