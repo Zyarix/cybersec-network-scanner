@@ -166,4 +166,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Ismail Jonkunda Ceesay** — [github.com/Zyarix](https://github.com/Zyarix)
+**Ismail Jonkunda Ceesay** — [github.com/IsmailCeesay](https://github.com/IsmailCeesay)
